@@ -1071,3 +1071,89 @@ a {
 .credits-column p {
     margin: 0.2rem 0;
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+* {
+    max-width: 100vw;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.fixed-button {
+    max-width: 100vw;
+    transition: transform 0.3s ease;
+}
+
+.fixed-button:hover {
+    transform: scale(1.1);
+}
+
+/* Responsividade específica para dispositivos móveis */
+@media (max-width: 768px) {
+    .titulo-servicos h1,
+    .headline-portfolio .titulo,
+    .titulo-contato h1 {
+        font-size: 4rem;
+    }
+
+    .descricao-servicos,
+    .headline-portfolio .descricao,
+    .descricao-contato {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .formulario-contato input,
+    .formulario-contato textarea,
+    .formulario-contato button {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .logo-contato img {
+        width: 90%;
+    }
+
+    .credits-column {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .footer-nav,
+    .social-links {
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-column {
+        align-items: center !important;
+    }
+
+    .container-footer {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* Ajustes finais */
+.footer-nav a,
+.social-links a {
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
