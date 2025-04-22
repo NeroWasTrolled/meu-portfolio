@@ -1148,6 +1148,18 @@ img {
     .container-footer {
         flex-direction: column;
         align-items: center;
+        gap: 2rem;
+    }
+
+    .logo-column img {
+        width: 120px;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .footer-nav a,
+    .social-links a {
+        justify-content: center;
     }
 }
 
