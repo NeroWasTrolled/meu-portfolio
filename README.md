@@ -1,15 +1,3 @@
-## 🎯 **2️⃣ Descrição**
-
-```plaintext
-🌐 Meu portfólio pessoal — desenvolvido em HTML, CSS e JavaScript puro. Apresenta meus projetos, habilidades e contato de forma clara e responsiva.
-```
-
----
-
-## 🎯 **3️⃣ README.md completíssimo**
-
-Segue um **README.md bonito**, com emojis, instruções e link direto pro site online:
-
 # 📌 Meu Portfólio Pessoal
 
 Bem-vindo ao **meu portfólio**, desenvolvido com **HTML**, **CSS** e **JavaScript** puro. Aqui apresento meus projetos, minhas skills e formas de entrar em contato.
