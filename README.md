@@ -65,9 +65,9 @@ Abra o `index.html` em qualquer navegador.
 
 Caso queira trocar uma ideia, me chamar pra freelas ou dar feedback:
 
-* ✉️ \[Seu Email Aqui]
-* 📞 \[Opcional: telefone comercial]
-* 💼 \[LinkedIn ou outro link de rede]
+* ✉️ \[gabrielfrancasimoes@gmail.com]
+* 📞 \[Opcional: +55 (44) 997135259]
+* 💼 \[https://www.linkedin.com/in/gabriel-frança-4633aa27b/]
 
 ---
 
