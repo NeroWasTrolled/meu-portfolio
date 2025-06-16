@@ -57,7 +57,7 @@ Abra o `index.html` em qualquer navegador.
 
 * HTML5
 * CSS3
-* JavaScript ES6+
+* JavaScript
 
 ---
 
@@ -66,7 +66,7 @@ Abra o `index.html` em qualquer navegador.
 Caso queira trocar uma ideia, me chamar pra freelas ou dar feedback:
 
 * ✉️ \[gabrielfrancasimoes@gmail.com]
-* 📞 \[Opcional: +55 (44) 997135259]
+* 📞 \[+55 (44) 997135259]
 * 💼 \[https://www.linkedin.com/in/gabriel-frança-4633aa27b/]
 
 ---
